@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_doc_site_ecommerce_react=self.webpackChunkmy_doc_site_ecommerce_react||[]).push([[3081],{1628:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/docu-react-alejandro/es/blog/tags/docusaurus","allTagsPath":"/docu-react-alejandro/es/blog/tags","count":4,"unlisted":false}')}}]);

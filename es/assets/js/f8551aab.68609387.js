@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_doc_site_ecommerce_react=self.webpackChunkmy_doc_site_ecommerce_react||[]).push([[2224],{1976:(e,c,a)=>{a.r(c),a.d(c,{default:()=>t});a(6540);var s=a(781),r=a(4848);function t(){return(0,r.jsxs)(s.A,{children:[(0,r.jsx)("h1",{children:"My React page"}),(0,r.jsx)("p",{children:"Esta es la pagina con React"})]})}}}]);
